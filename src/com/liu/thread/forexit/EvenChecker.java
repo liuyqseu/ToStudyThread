@@ -35,4 +35,5 @@ public class EvenChecker implements Runnable {
 	public static void test(IntGenerator gp) {
 		test(gp, 10);
 	}
+	
 }
