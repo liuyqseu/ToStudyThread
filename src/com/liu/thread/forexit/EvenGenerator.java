@@ -5,6 +5,7 @@ public class EvenGenerator extends IntGenerator {
 	  public int next() {
 	    ++currentEvenValue; // Danger point here!
 	    ++currentEvenValue;
+//		  currentEvenValue += 2;
 	    return currentEvenValue;
 	  }
 	  public static void main(String[] args) {
