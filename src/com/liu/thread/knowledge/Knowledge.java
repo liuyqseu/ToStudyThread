@@ -1,4 +1,4 @@
-package com.liu.thread;
+package com.liu.thread.knowledge;
 
 
 public class Knowledge {
